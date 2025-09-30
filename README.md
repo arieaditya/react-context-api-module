@@ -1,7 +1,7 @@
 # Modul Pelatihan: State Management di React dengan Context API
 
 <div align="center">
-  <img src="sample_app.png" alt="React Context API Demo" width="800" />
+  <img src="https://raw.githubusercontent.com/arieaditya/react-context-api-module/master/sample_app.png" alt="React Context API Demo" width="800" />
   
   <br><br>
   
@@ -17,7 +17,7 @@ Repositori ini berisi materi pelatihan singkat untuk memahami dan mengimplementa
 ## 🎯 Demo Interaktif
 
 <div align="center">
-  <img src="dark-mode.gif" alt="Theme Toggle Demo" width="600" />
+  <img src="https://raw.githubusercontent.com/arieaditya/react-context-api-module/master/dark-mode.gif" alt="Theme Toggle Demo" width="600" />
   <p><em>Lihat bagaimana tema berubah secara smooth dengan Context API!</em></p>
 </div>
 
@@ -201,7 +201,7 @@ export default App;
 ## 4. Fitur Aplikasi
 
 <div align="center">
-  <img src="dark-mode.gif" alt="Interactive Theme Demo" width="500" />
+  <img src="https://raw.githubusercontent.com/arieaditya/react-context-api-module/master/dark-mode.gif" alt="Interactive Theme Demo" width="500" />
 </div>
 
 ✨ **Fitur yang telah diimplementasikan:**
