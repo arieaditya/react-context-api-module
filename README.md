@@ -1,13 +1,58 @@
 # Modul Pelatihan: State Management di React dengan Context API
 
+<div align="center">
+  <img src="sample_app.png" alt="React Context API Demo" width="800" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Context%20API-Built--in-FF6B6B?style=for-the-badge" alt="Context API" />
+  <img src="https://img.shields.io/badge/Theme-Light%20%2F%20Dark-4ECDC4?style=for-the-badge" alt="Theme Toggle" />
+  
+  <br><br>
+</div>
+
 Repositori ini berisi materi pelatihan singkat untuk memahami dan mengimplementasikan state management di React menggunakan Context API. Tujuannya adalah untuk mengelola state global tanpa _prop drilling_.
 
-## Objektif Pembelajaran
+## 🎯 Demo Interaktif
+
+<div align="center">
+  <img src="dark-mode.gif" alt="Theme Toggle Demo" width="600" />
+  <p><em>Lihat bagaimana tema berubah secara smooth dengan Context API!</em></p>
+</div>
+
+## 📚 Objektif Pembelajaran
 
 - Memahami masalah _prop drilling_ dan bagaimana Context API menyelesaikannya.
 - Mampu membuat **Context** dan **Provider** untuk menyediakan state.
 - Mampu mengonsumsi (menggunakan) state dari **Context** di komponen mana pun.
 - Mengimplementasikan _use case_ praktis seperti _Theme Toggler_.
+
+## � Table of Contents
+
+1. [🎯 Demo Interaktif](#-demo-interaktif)
+2. [📚 Objektif Pembelajaran](#-objektif-pembelajaran)
+3. [🚀 Quick Start](#-quick-start)
+4. [💡 Konsep Dasar](#1-konsep-dasar)
+5. [📁 Struktur Repositori](#2-struktur-repositori)
+6. [📝 Penjelasan Kode](#3-penjelasan-kode)
+7. [✨ Fitur Aplikasi](#4-fitur-aplikasi)
+8. [🛠️ Cara Menjalankan](#5-cara-menjalankan-aplikasi)
+9. [🎓 Pembelajaran Kunci](#6-pembelajaran-kunci)
+10. [🚀 Pengembangan Selanjutnya](#7-pengembangan-selanjutnya)
+11. [🛠️ Teknologi](#8-teknologi-yang-digunakan)
+12. [🤝 Kontribusi](#9-kontribusi)
+
+## �🚀 Quick Start
+
+```bash
+git clone https://github.com/arieaditya/react-context-api-module.git
+cd react-context-api-module
+npm install
+npm start
+```
+
+Buka `http://localhost:3000` dan mulai eksplorasi!
 
 ---
 
@@ -154,6 +199,10 @@ export default App;
 ---
 
 ## 4. Fitur Aplikasi
+
+<div align="center">
+  <img src="dark-mode.gif" alt="Interactive Theme Demo" width="500" />
+</div>
 
 ✨ **Fitur yang telah diimplementasikan:**
 
